@@ -13,7 +13,6 @@ Your task is to find a path from the **top-left corner (0,0)** to the **bottom-r
 ### Objective
 Minimize:
 
----
 grid[0][0] XOR grid[x1][y1] XOR ... XOR grid[999][999]
 
 ---
@@ -50,6 +49,8 @@ The goal is to **study the behavior of XOR-based path problems**, not to guarant
 - Not guaranteed to find the global minimum XOR
 - Memory and time blow up quickly as grid size increases
 
+---
+
  ##🧠 Learning Outcome
 
 - This project demonstrates:
@@ -57,6 +58,8 @@ The goal is to **study the behavior of XOR-based path problems**, not to guarant
 - Limits of traditional algorithms and AI
 - How XOR breaks optimal substructure
 - Practical experimentation with unsolved problem types
+
+---
 
 ##🏁 Final Note
 
