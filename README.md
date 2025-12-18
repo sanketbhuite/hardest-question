@@ -43,7 +43,7 @@ Instead, it explores the problem using:
 The goal is to **study the behavior of XOR-based path problems**, not to guarantee the best possible answer.
 
 ---
-##⚠️ Limitations
+## ⚠️ Limitations
 
 - Works reliably only for small or constrained grids
 - Not guaranteed to find the global minimum XOR
@@ -51,7 +51,7 @@ The goal is to **study the behavior of XOR-based path problems**, not to guarant
 
 ---
 
- ##🧠 Learning Outcome
+ ## 🧠 Learning Outcome
 
 - This project demonstrates:
 - Why some problems are theoretically hard
@@ -61,6 +61,6 @@ The goal is to **study the behavior of XOR-based path problems**, not to guarant
 
 ---
 
-##🏁 Final Note
+## 🏁 Final Note
 
 This problem sits at the boundary between competitive programming, theoretical computer science, and computational limits.
